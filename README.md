@@ -1,11 +1,16 @@
 <!-- 헤더: 역동적인 애니메이션 배너 -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Artificial%20Intelligence%20Developer&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Building%20the%20Future%20with%20AI&descAlignY=65&descAlign=center" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Artificial%20Intelligence%20Developer&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" />
 </div>
 
-<!-- 타이핑 애니메이션: 멀티라인 -->
+<!-- 소개 -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&size=32&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=🤖+Hi%2C+I'm+roundycat;🧠+AI+Developer+%26+Researcher;🚀+Transforming+Ideas+into+Intelligence;⚡+Code+%7C+Train+%7C+Deploy+%7C+Innovate" alt="Typing SVG" />
+  <h2>🤖 Hi, I'm roundycat</h2>
+  <h3>🧠 AI Developer & Researcher</h3>
+  <p>
+    🚀 Transforming Ideas into Intelligence<br>
+    ⚡ Code | Train | Deploy | Innovate
+  </p>
 </div>
 
 <!-- 프로필 뷰 카운터 -->
@@ -208,18 +213,15 @@ print(me)
 
 ## 📊 GitHub Statistics & Activity
 
-<!-- 메인 통계 (나란히 배치) -->
-<img height="200em" src="https://github-readme-stats.vercel.app/api?username=roundycat&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff&custom_title=GitHub%20Statistics"/>
-<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roundycat&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=ffffff&custom_title=Most%20Used%20Languages"/>
+<img src="https://github-readme-stats.vercel.app/api?username=roundycat&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" />
 
-<!-- 스트릭 통계 -->
-<img src="https://github-readme-streak-stats.demolab.com/?user=roundycat&theme=radical&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&sideLabels=00D9FF" alt="GitHub Streak" width="100%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=roundycat&layout=compact&theme=radical" alt="Top Languages" />
 
-<!-- 트로피 -->
-<img src="https://github-profile-trophy.vercel.app/?username=roundycat&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" alt="Trophy" width="100%"/>
+<img src="https://github-readme-streak-stats.demolab.com/?user=roundycat&theme=radical" alt="GitHub Streak" />
 
-<!-- 활동 그래프 -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=roundycat&theme=redical&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&area_color=00D9FF" alt="Activity Graph" width="100%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=roundycat&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" alt="Trophy" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=roundycat&bg_color=ffffff&color=000000&line=00D9FF&point=000000&area=true&area_color=00D9FF" alt="Activity Graph" />
 
 </div>
 
@@ -257,7 +259,7 @@ print(me)
 
 ## 📫 Let's Connect!
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your_email@example.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:roundykitten@yonsei.ac.kr)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/roundycat)
 [![Blog](https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](#)
 
@@ -273,9 +275,5 @@ print(me)
 > 🚀 **"Building intelligence, one experiment at a time"**
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Thank%20You%20for%20Visiting!%20Let's%20Build%20Something%20Amazing%20Together!&fontSize=28&fontColor=fff&animation=twinkling&fontAlignY=40" />
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/roundycat/roundycat/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</div>
 
 </div>
