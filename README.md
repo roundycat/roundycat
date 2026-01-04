@@ -7,7 +7,7 @@
 
 <p align="center">
   🎓 Software Engineering Student <br>
-  💻 Interested in Backend · Web · System <br>
+  💻 Interested in AI · Big Data <br>
   🚀 Growing through practice & projects
 </p>
 
