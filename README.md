@@ -1,110 +1,281 @@
-<!-- 상단 배너 -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Roundycat's%20GitHub&fontSize=40&fontAlignY=35" />
-</p>
+<!-- 헤더: 역동적인 애니메이션 배너 -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Artificial%20Intelligence%20Developer&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Building%20the%20Future%20with%20AI&descAlignY=65&descAlign=center" />
+</div>
 
-<h2 align="center">🐱 Hi, I'm roundycat!</h2>
+<!-- 타이핑 애니메이션: 멀티라인 -->
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&size=32&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=🤖+Hi%2C+I'm+roundycat;🧠+AI+Developer+%26+Researcher;🚀+Transforming+Ideas+into+Intelligence;⚡+Code+%7C+Train+%7C+Deploy+%7C+Innovate" alt="Typing SVG" />
+</div>
 
-<p align="center">
-  🎓 Software Engineering Student <br>
-  💻 Interested in AI · Big Data <br>
-  🚀 Growing through practice & projects
-</p>
-
----
-
-## 🧭 About Me
-- 🧑‍💻 소프트웨어학부 재학 중
-- 🔍 문제를 분석하고 구조화하는 개발을 지향
-- 📚 이론 + 실습을 함께 정리하는 스타일
-- ✨ **“기록으로 성장하는 개발자”**
+<!-- 프로필 뷰 카운터 -->
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=roundycat&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/roundycat&title=AI%20Visitors&icon=github&iconColor=%23FFFFFF&titleColor=%23FFFFFF&edge_flat=false" alt="Hits" />
+</div>
 
 ---
 
-## 🤖 AI & Machine Learning Stack
+<!-- About Me: 코드 스타일 소개 -->
+<div align="center">
 
-### 🧠 Core Frameworks
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?logo=keras&logoColor=white)
-![JAX](https://img.shields.io/badge/JAX-005571?logo=google&logoColor=white)
+## 👨‍💻 About Me
 
----
+```python
+class AIDeveloper:
+    """
+    🤖 AI Developer & Researcher
+    Transforming theory into intelligent systems
+    """
+    
+    def __init__(self):
+        self.name = "roundycat"
+        self.role = "Software Engineering Student"
+        self.location = "South Korea"
+        self.focus_areas = [
+            "🧠 Artificial Intelligence",
+            "🤖 Machine Learning", 
+            "📊 Deep Learning",
+            "⚙️ MLOps & Deployment"
+        ]
+        self.philosophy = "원리 이해 + 재현 + 개선"
+        self.current_status = "Always Learning & Experimenting"
+        
+    def develop(self) -> str:
+        """
+        Build intelligent systems through:
+        - Research & Experimentation
+        - Implementation from scratch
+        - Continuous improvement
+        """
+        return "🚀 Building intelligence, one experiment at a time"
+    
+    def __str__(self):
+        return f"{self.name} | {self.role} | {self.philosophy}"
 
-### 📊 Data Science & ML Libraries
-![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
-![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?logo=scipy&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?logo=scikitlearn&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-337AB7?logo=python&logoColor=white)
-![LightGBM](https://img.shields.io/badge/LightGBM-02569B?logo=python&logoColor=white)
+# Instantiate
+me = AIDeveloper()
+print(me)
+```
 
----
-
-### 🧠 Deep Learning & CV / NLP
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?logo=huggingface&logoColor=black)
-![spaCy](https://img.shields.io/badge/spaCy-09A3D5?logo=spacy&logoColor=white)
-![NLTK](https://img.shields.io/badge/NLTK-85C88A?logo=python&logoColor=white)
-
----
-
-### 🧪 MLOps & Experiment
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?logo=mlflow&logoColor=white)
-![Weights & Biases](https://img.shields.io/badge/W%26B-FFBE00?logo=weightsandbiases&logoColor=black)
-![DVC](https://img.shields.io/badge/DVC-945DD6?logo=dataversioncontrol&logoColor=white)
-
----
-
-### ☁️ Deployment & Environment
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
-![ONNX](https://img.shields.io/badge/ONNX-005CED?logo=onnx&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
-
----
-
-## 📊 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=roundycat&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=roundycat&layout=compact&theme=tokyonight" />
-</p>
+</div>
 
 ---
 
-## 📌 Featured Projects
-- 🧩 **Algorithm Practice**  
-  → 자료구조 · 알고리즘 문제 풀이 정리
+<!-- Identity: 카드 스타일 -->
+<div align="center">
 
-- 🌐 **Web Application Project**  
-  → Backend 중심의 웹 서비스 구현
+## 🧠 My Identity & Philosophy
 
-- 📂 **CS Study Repository**  
-  → 운영체제, 네트워크, DB 개념 정리
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🎯 Core Values
+- 🤖 **AI-First Learning**: 인공지능 중심 학습·실험·구현
+- 📊 **End-to-End Understanding**: 데이터 → 모델 → 실험 → 배포 전 과정 이해
+- 🧪 **Principle-Centered**: **원리 이해 + 재현 + 개선** 중심 학습
+- 📝 **Documentation-Driven**: 모든 학습 과정을 코드와 문서로 기록
+
+</td>
+<td width="50%" valign="top">
+
+### 🚀 What I Do
+- 🔬 Research & Experimentation
+- 💻 Implementation from Scratch
+- 📈 Model Optimization
+- 🚢 System Deployment
+- 📚 Knowledge Sharing
+
+</td>
+</tr>
+</table>
+
+</div>
 
 ---
 
-## 🌱 Currently Learning
-- Backend Architecture
-- Clean Code & Design Patterns
-- Linux & System Programming
+<!-- Tech Stack: 그리드 레이아웃 -->
+<div align="center">
+
+## 🛠️ Tech Stack & Tools
+
+### 🧠 Deep Learning Frameworks
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![JAX](https://img.shields.io/badge/JAX-005571?style=for-the-badge&logo=google&logoColor=white)
+
+### 📊 Machine Learning & Data Science
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-337AB7?style=for-the-badge&logo=xgboost&logoColor=white)
+![LightGBM](https://img.shields.io/badge/LightGBM-02569B?style=for-the-badge&logo=lightgbm&logoColor=white)
+
+### 🧠 NLP / CV / LLM
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![Transformers](https://img.shields.io/badge/Transformers-FFCC00?style=for-the-badge&logo=python&logoColor=black)
+![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white)
+![NLTK](https://img.shields.io/badge/NLTK-85C88A?style=for-the-badge&logo=python&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+
+### 🧪 MLOps & Experiment Tracking
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
+![Weights & Biases](https://img.shields.io/badge/W%26B-FFBE00?style=for-the-badge&logo=weightsandbiases&logoColor=black)
+![DVC](https://img.shields.io/badge/DVC-945DD6?style=for-the-badge&logo=dataversioncontrol&logoColor=white)
+
+### ☁️ Model Serving & Deployment
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![ONNX](https://img.shields.io/badge/ONNX-005CED?style=for-the-badge&logo=onnx&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+</div>
 
 ---
 
-## 📫 Contact & Links
-- ✉️ Email: your_email@example.com
-- 📝 Blog: (Velog / Tistory / Notion 링크 추가 가능)
+<!-- Research Interests: 테이블 형식 -->
+<div align="center">
+
+## 🧪 Research & Study Interests
+
+| Category | Focus Areas |
+|:--------:|:-----------|
+| 🧠 **Architecture** | Deep Learning Architecture, Neural Network Design |
+| 📈 **Optimization** | Model Optimization, Generalization, Efficiency |
+| 🗣️ **NLP** | Natural Language Processing, LLM, Transformers |
+| 👁️ **Vision** | Computer Vision, Image Processing, Feature Extraction |
+| ⚙️ **Systems** | AI System Design, Pipeline Architecture, MLOps |
+| 🔬 **Research** | Paper Reproduction, Novel Approaches, Experimentation |
+
+</div>
 
 ---
 
-<p align="center">
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/roundycat&title=Visitors&icon=github&icon_color=white"/>
-</p>
+<!-- Projects: 카드 스타일 -->
+<div align="center">
 
-<p align="center">
-  ⭐ Thanks for visiting my GitHub!
-</p>
+## 📌 Featured AI Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🤖 Deep Learning From Scratch
+> 신경망 수식 구현 및 구조 재현
+
+**Tech Stack:** PyTorch, NumPy
+
+</td>
+<td width="50%" valign="top">
+
+### 🧠 NLP Experiments
+> Transformer 기반 텍스트 모델 실험
+
+**Tech Stack:** HuggingFace, Transformers
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 👁️ Computer Vision Practice
+> CNN, Image Classification, Feature Extraction
+
+**Tech Stack:** PyTorch, OpenCV
+
+</td>
+<td width="50%" valign="top">
+
+### 🧪 ML Experiment Tracking
+> MLflow / W&B 기반 실험 관리
+
+**Tech Stack:** MLflow, W&B, DVC
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+<!-- GitHub Statistics: 역동적인 레이아웃 -->
+<div align="center">
+
+## 📊 GitHub Statistics & Activity
+
+<!-- 메인 통계 (나란히 배치) -->
+<img height="200em" src="https://github-readme-stats.vercel.app/api?username=roundycat&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff&custom_title=GitHub%20Statistics"/>
+<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roundycat&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=ffffff&custom_title=Most%20Used%20Languages"/>
+
+<!-- 스트릭 통계 -->
+<img src="https://github-readme-streak-stats.demolab.com/?user=roundycat&theme=radical&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&sideLabels=00D9FF" alt="GitHub Streak" width="100%"/>
+
+<!-- 트로피 -->
+<img src="https://github-profile-trophy.vercel.app/?username=roundycat&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" alt="Trophy" width="100%"/>
+
+<!-- 활동 그래프 -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=roundycat&theme=redical&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&area_color=00D9FF" alt="Activity Graph" width="100%"/>
+
+</div>
+
+---
+
+<!-- Currently Learning: 역동적인 배지 -->
+<div align="center">
+
+## 🌱 Currently Learning & Focusing On
+
+<img src="https://img.shields.io/badge/Transformer-FF6B6B?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/Attention%20Mechanism-4ECDC4?style=for-the-badge&logo=brain&logoColor=white" />
+<img src="https://img.shields.io/badge/LLM%20Fine--tuning-95E1D3?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Model%20Deployment-FF6B9D?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Paper%20Reproduction-F38BA8?style=for-the-badge&logo=read-the-docs&logoColor=white" />
+
+<br>
+
+<details>
+<summary>📚 <b>Click to see more learning goals</b></summary>
+
+- 🔬 Advanced Model Architectures
+- ⚡ Model Optimization Techniques
+- 🚢 Production Deployment Strategies
+- 📖 Research Paper Deep Dives
+
+</details>
+
+</div>
+
+---
+
+<!-- Contact: 인터랙티브 버튼 -->
+<div align="center">
+
+## 📫 Let's Connect!
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your_email@example.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/roundycat)
+[![Blog](https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](#)
+
+</div>
+
+---
+
+<!-- Footer: 역동적인 애니메이션 -->
+<div align="center">
+
+### 💡 My Motto
+
+> 🚀 **"Building intelligence, one experiment at a time"**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Thank%20You%20for%20Visiting!%20Let's%20Build%20Something%20Amazing%20Together!&fontSize=28&fontColor=fff&animation=twinkling&fontAlignY=40" />
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/roundycat/roundycat/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</div>
+
+</div>
